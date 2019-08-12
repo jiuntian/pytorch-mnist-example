@@ -1,5 +1,6 @@
+
 # An example of CNN on PyTorch with MNIST dataset
-This was part of the blog post on https://jiuntian.com/blog
+This was part of the blog post on https://jiuntian.com/blog/index.php/2019/08/12/learn-cnn-in-pytorch-within-30-minutes-|-recognising-digits-with-deep-learning/
 ## File Structure
 pytorch-mnist.ipnyb is jupyter notebook for the example
 
